@@ -21,13 +21,14 @@
     "install": "node-gyp-build || exit 0"
   },
   "dependencies": {
+    "blake-hash": "elboletaire/blake-hash#f/browser",
     "buffer": "^6.0.3",
     "node-addon-api": "^3.0.0",
-    "node-gyp-build": "^4.2.2",
+    "node-gyp": "^10.2.0",
+    "node-gyp-build": "^4.8.1",
     "readable-stream": "^3.6.0"
   },
   "devDependencies": {
-    "node-gyp": "^6.1.0",
     "nyc": "^15.0.1",
     "prebuildify": "^4.0.0",
     "standard": "^14.3.3",
