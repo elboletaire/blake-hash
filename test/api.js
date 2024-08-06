@@ -1,4 +1,5 @@
 const test = require('tape')
+const Buffer = require('buffer').Buffer
 
 const utf8text = 'УТФ-8 text'
 

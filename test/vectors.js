@@ -1,4 +1,5 @@
 const test = require('tape')
+const Buffer = require('buffer').Buffer
 
 // http://131002.net/blake/blake.pdf
 const vectors = [{

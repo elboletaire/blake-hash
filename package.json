@@ -21,6 +21,7 @@
     "install": "node-gyp-build || exit 0"
   },
   "dependencies": {
+    "buffer": "^6.0.3",
     "node-addon-api": "^3.0.0",
     "node-gyp-build": "^4.2.2",
     "readable-stream": "^3.6.0"
