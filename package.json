@@ -1,6 +1,6 @@
 {
-  "name": "blake-hash",
-  "version": "2.0.0",
+  "name": "@voctest/blake-hash",
+  "version": "2.0.1",
   "description": "SHA-3 proposal Blake",
   "keywords": [
     "blake"
@@ -21,7 +21,6 @@
     "install": "node-gyp-build || exit 0"
   },
   "dependencies": {
-    "blake-hash": "elboletaire/blake-hash#f/browser",
     "buffer": "^6.0.3",
     "node-addon-api": "^3.0.0",
     "node-gyp": "^10.2.0",
