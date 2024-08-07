@@ -1,5 +1,5 @@
 {
-  "name": "@voctest/blake-hash",
+  "name": "blake-hash",
   "version": "2.0.1",
   "description": "SHA-3 proposal Blake",
   "keywords": [
